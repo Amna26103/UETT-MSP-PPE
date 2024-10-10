@@ -59,4 +59,4 @@ If you'd like to contribute to this project, please fork the repository and subm
 request with your enhancements or bug fixes.
 
 contact
-mspl@uettaxila.edu.pk
+For any queries or further discussion feel free to contact at mspl@uettaxila.edu.pk
